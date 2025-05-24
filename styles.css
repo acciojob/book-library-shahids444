@@ -14,6 +14,9 @@ body{
 	width:100%;
 	margin:20px;
 }
+.price-box{
+	background-color:rgb(46,204,113);
+}
 .book p{
 	color:#777777;
 }
